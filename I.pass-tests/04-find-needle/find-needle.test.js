@@ -15,3 +15,4 @@ test("Find the plant", function() {
   var output = findTheNeedle(words, "plant");
   expect(output).toEqual(expected);
 });
+
